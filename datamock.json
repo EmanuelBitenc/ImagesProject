@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sistema lento",
+    "descricao": "O sistema está apresentando lentidão ao carregar as páginas",
+    "categoria": "Performance"
+  },
+  {
+    "id": 2,
+    "titulo": "Erro de login",
+    "descricao": "Usuários não conseguem fazer login no sistema",
+    "categoria": "Acesso"
+  },
+  {
+    "id": 3,
+    "titulo": "Relatório não gera",
+    "descricao": "O relatório mensal não está sendo gerado corretamente",
+    "categoria": "Funcionalidade"
+  },
+  {
+    "id": 4,
+    "titulo": "Erro de infra",
+    "descricao": "Servidor indisponível para acesso",
+    "categoria": "Infraestrutura"
+  },
+  {
+    "id": 5,
+    "titulo": "Banco de dados",
+    "descricao": "Erro de conexão com o banco de dados",
+    "categoria": "Infraestrutura"
+  },
+  {
+    "id": 6,
+    "titulo": "Cache não funciona",
+    "descricao": "Sistema de cache não está funcionando adequadamente",
+    "categoria": "Performance"
+  }
+]
